@@ -1,0 +1,2 @@
+> [!IMPORTANT]
+> Prueba primera clase.
